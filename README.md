@@ -23,6 +23,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.limateor.com/" target="blank"><img align="center" src="https://github.com/LiorI9/LiorI9/blob/main/Limateor-logo.png" alt="liorarchitect" height="30" width="80" /></a>
 <a href="https://twitter.com/liorarchitect" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="liorarchitect" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/liorisrael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="liorisrael" height="30" width="40" /></a>
 </p>
